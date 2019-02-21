@@ -1,5 +1,5 @@
 # InterviewBit-Solutions
-Explanations of questions taken from HackerRank.com
+Explanations of questions taken from interviewbit.com
 
 Competitive coding questions collection fire
 
@@ -11,4 +11,4 @@ Contribute ?? heavy_check_mark Fork the repository Make the commits Submit a pul
 
 :octocat: You can also make a pull request if you solved the question with same approach as above but in programming language other than C++/C.
 
-Prerequisites heavy_check_mark :octocat: You can just run these codes on any IDEs like netbeans,eclipse or any online ide.
+Prerequisites heavy_check_mark :octocat: You can just run these codes on any IDEs like dev c++, code blocks or any online ide.
