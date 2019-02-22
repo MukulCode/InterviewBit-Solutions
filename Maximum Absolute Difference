@@ -1,3 +1,22 @@
+Problem Name : Max Sum Contiguous Subarray
+Asked In : Facebook,Paypal, Microsoft, LinkedIn, Amazon, Goldman Sachs
+
+
+/*||||||||||||||||||||||||||||||||||       
+||    ||\      //||     ||   //   ||      
+||    ||\\    // ||     ||  //    || 
+||    || \\  //  ||     || //     || 
+||    ||  \\//   ||     ||//      || 
+||    ||   \/    ||     ||\\      ||
+||    ||         ||     || \\     ||
+||    ||         ||     ||  \\    ||
+||    ||         ||     ||   \\   ||
+||||||||||||||||||||||||||||||||||*/
+
+
+
+
+
 int Solution::maxArr(vector<int> &A) {
   int n=A.size(),max1=INT_MIN,max2=INT_MIN,max3=INT_MIN,max4=INT_MIN,ans=INT_MIN;
 for(int i=0;i<n;i++){
