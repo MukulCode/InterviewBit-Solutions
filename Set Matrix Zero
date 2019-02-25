@@ -1,6 +1,15 @@
 Problem Name : Set Matrix Zero
 Asked in: Oracle and Amazon
-
+/*||||||||||||||||||||||||||||||||||       
+||    ||\      //||     ||   //   ||      
+||    ||\\    // ||     ||  //    || 
+||    || \\  //  ||     || //     || 
+||    ||  \\//   ||     ||//      || 
+||    ||   \/    ||     ||\\      ||
+||    ||         ||     || \\     ||
+||    ||         ||     ||  \\    ||
+||    ||         ||     ||   \\   ||
+||||||||||||||||||||||||||||||||||*/
 void Solution::setZeroes(vector<vector<int> > &A) {
     int m = A.size();
     int n = A[0].size();
