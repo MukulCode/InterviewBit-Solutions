@@ -11,4 +11,4 @@ Contribute ??  Fork the repository Make the commits Submit a pull request. :octo
 
 :octocat: You can also make a pull request if you solved the question with same approach as above but in programming language other than C++/C.
 
-Prerequisites heavy_check_mark :octocat: You can just run these codes on any IDEs like dev c++, code blocks or any online ide.
+Prerequisites  :octocat: You can just run these codes on any IDEs like dev c++, code blocks or any online ide.
